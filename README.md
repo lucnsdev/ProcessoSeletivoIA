@@ -2,7 +2,7 @@
 
 ## 📝 Relatório do Candidato
 
-👤 Identificação: Lucas do Nascimento Souza
+👤 Identificação: LUCAS DO NASCIMENTO SOUZA
 
 
 ### 1️⃣ Resumo da Arquitetura do Modelo
@@ -65,7 +65,7 @@ Peso = 0.123456789
 ```
 Para 
 ```text
-Peso ≈ 0.12
+Peso = 0.12
 ```
 4- A precisão é reduzida. Mas o desempenho e a velocidade aumentam consideravelmente em dispositivos menos robustos.
 5- Depois vem a criação do arquivo já no formato 
@@ -79,8 +79,9 @@ Peso ≈ 0.12
 O principal resultado obtido após o treinamento do modelo e otimização é a redução do modelo. Isso possibilita "rodar" o projeto inteiro em simples embarcados.
 Tamanho do arquivo:
 ```text
-.h5: ~1–5 MB
-.tflite: ~200 KB – 1 MB
+.h5: 1.4 Mb
+   ↓
+.tflite: 129 KB
 ```
 
 Uma redução de até 70 a 90%.
