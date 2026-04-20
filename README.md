@@ -56,10 +56,10 @@ tensorflow         2.21.0
 ### 3️⃣ Técnica de Otimização do Modelo
 
 Explicação da técnica utilizada para otimizar o modelo no arquivo
-`optimize_model.py`.
-1- Inicialmente o modelo é carregado, observando a arquitetura da CNN, pesos treinados e a configuração de treino.
-2- Depois criamos o conversor para traduzir o modelo para um formato leve que seja utilizavel em dispositivos móveis/embarcados.
-3- Configuração da otimização que é o mais impactante. Ele converte um numero 
+`optimize_model.py`.<br>
+1- Inicialmente o modelo é carregado, observando a arquitetura da CNN, pesos treinados e a configuração de treino.<br>
+2- Depois criamos o conversor para traduzir o modelo para um formato leve que seja utilizavel em dispositivos móveis/embarcados.<br>
+3- Configuração da otimização que é o mais impactante. Ele converte um numero <br>
 ```text 
 Peso = 0.123456789
 ```
