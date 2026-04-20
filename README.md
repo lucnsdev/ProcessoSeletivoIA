@@ -83,5 +83,4 @@ Tamanho do arquivo:
    ↓
 .tflite: 129 KB
 ```
-
-Uma redução de até 70 a 90%.
+Uma redução de 88% no tamanho do arquivo do modelo.
