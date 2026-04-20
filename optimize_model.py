@@ -1,5 +1,4 @@
-import tensorflow as tf
-import os
+# Developed by @lucns
 
 import tensorflow as tf
 
